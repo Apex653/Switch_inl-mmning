@@ -1,0 +1,7 @@
+C:\Users\gume09001\source\repos\.vs\Switch_in\switch_inlämmning4\bin\Debug\switch_inlämmning4.exe.config
+C:\Users\gume09001\source\repos\.vs\Switch_in\switch_inlämmning4\bin\Debug\switch_inlämmning4.exe
+C:\Users\gume09001\source\repos\.vs\Switch_in\switch_inlämmning4\bin\Debug\switch_inlämmning4.pdb
+C:\Users\gume09001\source\repos\.vs\Switch_in\switch_inlämmning4\obj\Debug\switch_inlämmning4.csproj.AssemblyReference.cache
+C:\Users\gume09001\source\repos\.vs\Switch_in\switch_inlämmning4\obj\Debug\switch_inlämmning4.csproj.CoreCompileInputs.cache
+C:\Users\gume09001\source\repos\.vs\Switch_in\switch_inlämmning4\obj\Debug\switch_inlämmning4.exe
+C:\Users\gume09001\source\repos\.vs\Switch_in\switch_inlämmning4\obj\Debug\switch_inlämmning4.pdb
