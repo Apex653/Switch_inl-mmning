@@ -11,21 +11,28 @@ namespace switch_inlämmning5
             int tal1 = int.Parse(Console.ReadLine());
             int tal2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Skriv in ett räknesätt (+, -, *, /)");
-            string räknesätt = Console.ReadLine();
+            Console.WriteLine("Välj ett räknesätt");
+            Console.WriteLine("1. Addition");
+            Console.WriteLine("2. Subtraktion");
+            Console.WriteLine("3. Multiplikation");
+            Console.WriteLine("4. Division");
+
+            int räknesätt = int.Parse(Console.ReadLine());
+
+
 
             switch(räknesätt)
             {
-                case "+":
+                case 1:
                     Console.WriteLine(tal1 + tal2);
                     break;
-                case "-":
+                case 2:
                     Console.WriteLine(tal1 - tal2);
                     break;
-                case "*":
+                case 3:
                     Console.WriteLine(tal1 * tal2);
                     break;
-                case "/":
+                case 4:
                     {
                         Console.WriteLine(tal1 / tal2);
                     }
